@@ -56,3 +56,13 @@ Navigate to the backend directory and start the Flask server:
 ```bash
 cd backend
 flask run
+```
+This command will start the server at http://0.0.0.0:5000.
+
+## Starting the React Native App with Expo
+
+Navigate to the frontend directory and start the React Native app using Expo:
+
+```bash
+cd frontend
+npx expo start
